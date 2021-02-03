@@ -10,7 +10,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "aws-sdk": "^2.94.0",
+    "aws-sdk": "^2.826.0",
     "aws-serverless-express": "^3.0.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
