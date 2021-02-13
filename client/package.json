@@ -20,7 +20,7 @@
     "mime-type": "^3.0.5",
     "path": "^0.12.7",
     "prop-types": "^15.6.0",
-    "react": "16.0.0-alpha.12",
+    "react": "16.0.0",
     "react-devtools": "^2.5.0",
     "react-native": "0.47.1",
     "react-native-elements": "^0.15.0",
@@ -28,7 +28,7 @@
     "react-native-prompt": "^1.0.0",
     "react-native-uuid": "^1.4.9",
     "react-native-vector-icons": "^4.3.0",
-    "react-navigation": "1.0.0-beta.12"
+    "react-navigation": "2.0.0"
   },
   "rnpm": {
     "assets": [
